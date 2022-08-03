@@ -2,7 +2,7 @@
 
 &nbsp;
 
-My name is Rylee. I'm currently working as a Data Scientist.
+My name is Rylee. I'm currently working as a **Data Scientist**.
 
 Besides that, I am ALSO a:
 - :guitar: Guitarist / :star: Astrologer / :cocktail: Bartender / :coffee: Barista
@@ -17,6 +17,8 @@ Besides that, I am ALSO a:
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mySQL&logoColor=white&color=6a9fb5)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6a9fb5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6a9fb5)
+
+&nbsp;
 
 ## :pen: Blog & Writing
 
