@@ -18,6 +18,8 @@ Besides that, I am ALSO a:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6a9fb5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6a9fb5)
 
+Now I am learning html / css / javascript.
+
 &nbsp;
 
 ## :pen: Blog & Writing
