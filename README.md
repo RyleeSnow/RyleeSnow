@@ -5,14 +5,13 @@
 My name is Rylee. I'm currently working as a **Data Scientist**.
 
 Besides that, I am ALSO a:
-- :guitar: Guitarist / :star: Astrologer / :cocktail: Bartender / :coffee: Barista
+- :guitar: Guitarist / :blue_book: Writer / :cocktail: Bartender
 
 &nbsp;
 
 ## :bulb: Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6a9fb5)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=6a9fb5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6a9fb5)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mySQL&logoColor=white&color=6a9fb5)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6a9fb5)
