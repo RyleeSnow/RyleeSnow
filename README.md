@@ -3,11 +3,15 @@
 Welcome to my GitHub corner!
 I'm a data scientist who loves turning ideas into intelligent systems, while pondering philosophy 📚, jamming to good music 🎶, and shooting hoops 🏀 in between.
 
+&nbsp;
+
 ## 💡 About Me
 
 * 🤖 I build AI-powered applications that (hopefully) make life easier
 * 🧘‍♂️ Off the keyboard, you'll find me buried in philosophy books, curating playlists, or on the basketball court
 * 🛠️ Always curious, always learning—especially where logic meets creativity
+
+&nbsp;
 
 ## 🧰 Tools of the Trade
 
@@ -18,13 +22,9 @@ I'm a data scientist who loves turning ideas into intelligent systems, while pon
 * **Platform & Editor**: GitHub, macOS, VS Code
 * **Others**: Markdown, Shell scripting
 
-## 📈 GitHub Stats
+&nbsp;
 
-<!-- GitHub stats -->
+## 🌐 Blog
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username\&show_icons=true\&theme=default)
-
-## 📫 Let's Connect
-
-* 🌐 Blog - you can find my articles on my website at [ryleesnow.github.io](https://ryleesnow.github.io/) 
+* You can find my articles on my website at [ryleesnow.github.io](https://ryleesnow.github.io/) 
 
