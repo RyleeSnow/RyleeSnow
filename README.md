@@ -1,22 +1,30 @@
-# Hello folks! 👋
+# 👋 Hey there, I'm Rylee
 
-&nbsp;
+Welcome to my GitHub corner!
+I'm a data scientist who loves turning ideas into intelligent systems, while pondering philosophy 📚, jamming to good music 🎶, and shooting hoops 🏀 in between.
 
-My name is Rylee. I'm currently working as a **Data Scientist**.
+## 💡 About Me
 
-Besides that, I am ALSO a:
-- :guitar: Guitarist / :blue_book: Writer / :cocktail: Bartender
+* 🤖 I build AI-powered applications that (hopefully) make life easier
+* 🧘‍♂️ Off the keyboard, you'll find me buried in philosophy books, curating playlists, or on the basketball court
+* 🛠️ Always curious, always learning—especially where logic meets creativity
 
-&nbsp;
+## 🧰 Tools of the Trade
 
-## :bulb: Technologies & Tools
+* **Languages & Frameworks**: Python, SQL, PyTorch, TensorFlow, Scikit-learn
+* **NLP & AI**: Transformers, Hugging Face 🤗, LangChain, FAISS, Ollama, RAG pipelines
+* **Data Tools**: Pandas, NumPy, Jupyter
+* **MLOps & Deployment**: Docker, GitHub Actions, Streamlit, FastAPI
+* **Platform & Editor**: GitHub, macOS, VS Code
+* **Others**: Markdown, Shell scripting
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6a9fb5)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6a9fb5)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mySQL&logoColor=white&color=6a9fb5)
+## 📈 GitHub Stats
 
-&nbsp;
+<!-- GitHub stats -->
 
-## :pen: Blog & Writing
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username\&show_icons=true\&theme=default)
 
-Apart from coding, I just started a blog - you can find my articles on my website at [ryleesnow.github.io](https://ryleesnow.github.io/) 
+## 📫 Let's Connect
+
+* 🌐 Blog - you can find my articles on my website at [ryleesnow.github.io](https://ryleesnow.github.io/) 
+
