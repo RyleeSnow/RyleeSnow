@@ -8,7 +8,7 @@ Welcome to my GitHub corner!
 
 * 🤖 I'm a **data scientist** with a background in **digital product management** - experienced in owning and delivering products from 0 to 1. I combine deep ML/DL/AI expertise with product thinking, enabling me to bridge technical and business domains with dual perspective. 
 * 🧘‍♂️ Off the keyboard, you'll find me buried in philosophy books 📚, curating playlists 🎶, or on the basketball court 🏀.
-* 🛠️ Always **curious**, always learning—especially where logic meets creativity.
+* 🛠️ Always **curious**, always learning — especially where logic meets creativity.
 
 &nbsp;
 
