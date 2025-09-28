@@ -15,9 +15,9 @@ Welcome to my GitHub corner!
 ## 🧰 Tools of the Trade
 
 * **Languages & Frameworks**: Python, SQL, PyTorch, TensorFlow, Scikit-learn
-* **NLP & AI**: Transformers, Hugging Face, LangChain, FAISS, Ollama, RAG pipelines
+* **NLP & AI**: Transformers, Hugging Face, LangChain, Ollama, RAG
 * **Data Tools**: Pandas, NumPy, Jupyter
-* **MLOps & Deployment**: Docker, GitHub Actions, Streamlit, FastAPI
+* **MLOps & Deployment**: Docker, Streamlit
 * **Platform & Editor**: GitHub, macOS, VS Code
 * **Others**: Markdown, Shell scripting
 
